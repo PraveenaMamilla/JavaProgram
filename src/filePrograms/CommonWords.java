@@ -38,6 +38,7 @@ public class CommonWords {
 	}
 	}
 	System.out.println(m);
+	System.out.println("two files are common");
 
 	/*for(Map.Entry<String, Integer> m1:m.entrySet()){
 	if(m1.getValue() >1)
